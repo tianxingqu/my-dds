@@ -1,0 +1,1 @@
+option (UNIT_TEST_ENABLE "Enable unit test" ON)
